@@ -12,24 +12,18 @@
     alt="Repository size"
     src="https://img.shields.io/github/repo-size/nicolas-justin/be-the-hero">
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="https://github.com/nicolas-justin/be-the-hero/commits/master">
     <img
       alt="GitHub last commit"
       src="https://img.shields.io/github/last-commit/nicolas-justin/be-the-hero">
   </a>
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="https://github.com/nicolas-justin/be-the-hero/issues">
     <img
       alt="Repository issues"
       src="https://img.shields.io/github/issues/nicolas-justin/be-the-hero">
   </a>
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="LICENSE.md">
     <img
       alt="License"
@@ -38,17 +32,17 @@
 </p>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#package-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-requisitos">Requisitos</a>
+  <a href="#memo-requisitos">Requisitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#zap-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-clonando">Clonando</a>
+  <a href="#inboxtray-clonando">Clonando</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contribuindo">Contribuindo</a>
+  <a href="#bulb-contribuindo">Contribuindo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#pagefacingup-licença">Licença</a>
 </p>
 
 <br>
@@ -90,7 +84,7 @@ Após a instalação, verifique se ambos foram instalados corretamente, executan
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### ⚙ Back-end
+### ⚙️ Back-end
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](http://expressjs.com/)
@@ -99,13 +93,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💻 Front-end
 
-- [Create React App](https://create-react-app.dev/docs/getting-started/)
+- [ReactJS](https://reactjs.org/)getting-started/)
 - [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Axios](https://github.com/axios/axios)
 - [React Icons](https://react-icons.netlify.com/)
 
 ### 📱 Mobile
 
+- [React Native](https://reactnative.dev/)
 - [Expo CLI](https://docs.expo.io/versions/latest/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Intl](https://github.com/andyearnshaw/Intl.js)
@@ -234,8 +229,6 @@ Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
 
 <p align="center">
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="https://linkedin.com/in/nicolas-justin">
     <img
       src=".github/linkedin.svg"
@@ -243,8 +236,6 @@ Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="https://twitter.com/onicolasjustin">
     <img
       src=".github/twitter.svg"
@@ -252,8 +243,6 @@ Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a
-    target="_blank"
-    rel="noreferrer noopener"
     href="https://t.me/nicolasjustin">
     <img
       src=".github/telegram.svg"
