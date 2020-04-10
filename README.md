@@ -36,7 +36,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-requisitos">Requisitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#zap-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-clonando">Clonando</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -80,7 +80,7 @@ Após a instalação, verifique se ambos foram instalados corretamente, executan
 
 <br>
 
-## ⚡️ Tecnologias
+## :zap: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
