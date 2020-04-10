@@ -32,17 +32,17 @@
 </p>
 
 <p align="center">
-  <a href="#📦-projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📝-requisitos">Requisitos</a>
+  <a href="#-requisitos">Requisitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#⚡️-tecnologias">Tecnologias</a>
+  <a href="#-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📥-clonando">Clonando</a>
+  <a href="#-clonando">Clonando</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💡-contribuindo">Contribuindo</a>
+  <a href="#-contribuindo">Contribuindo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📄-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <br>
