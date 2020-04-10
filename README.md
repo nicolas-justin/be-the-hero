@@ -32,17 +32,17 @@
 </p>
 
 <p align="center">
-  <a href="#package-projeto">Projeto</a>
+  <a href="#📦-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-requisitos">Requisitos</a>
+  <a href="#📝-requisitos">Requisitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#zap-tecnologias">Tecnologias</a>
+  <a href="#⚡️-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#inboxtray-clonando">Clonando</a>
+  <a href="#📥-clonando">Clonando</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bulb-contribuindo">Contribuindo</a>
+  <a href="#💡-contribuindo">Contribuindo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pagefacingup-licença">Licença</a>
+  <a href="#📄-licença">Licença</a>
 </p>
 
 <br>
@@ -93,7 +93,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💻 Front-end
 
-- [ReactJS](https://reactjs.org/)getting-started/)
+- [ReactJS](https://reactjs.org/docs/getting-started/)
 - [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Axios](https://github.com/axios/axios)
 - [React Icons](https://react-icons.netlify.com/)
@@ -200,6 +200,8 @@ Irá gerar uma `URL` e um `QR Code` para conexão.
 <br>
 
 ## 💡 Contribuindo
+
+Siga os passos abaixo para contribuir com a melhoria do projeto:
 
 - Faça um _fork_ desse repositório;
 - Crie uma _branch_ com a sua _feature_: `git checkout -b sua-feature`;
